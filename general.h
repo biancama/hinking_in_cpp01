@@ -6,5 +6,5 @@ using namespace std;
 #define THINKING_IN_CPP01_GENERAL_H
 
 unsigned int countWordsInAFile(const string & absoluteFileName);
-
+unsigned int countOccurrenceInAFile(const string & filename, const string & word);
 #endif //THINKING_IN_CPP01_GENERAL_H
