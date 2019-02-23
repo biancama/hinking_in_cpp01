@@ -5,7 +5,7 @@ include_directories(.)
 set(SOURCE_FILES main.cpp)
 
 file(GLOB SOURCES
-        ${PROJECT_SOURCE_DIR}/chapter01/exercises/*.cpp
+        ${PROJECT_SOURCE_DIR}/chapter02/exercises/*.cpp
         )
 
 add_executable(thinking_in_cpp01 ${SOURCE_FILES} ${SOURCES})
