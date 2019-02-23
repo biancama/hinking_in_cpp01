@@ -7,4 +7,6 @@ using namespace std;
 
 unsigned int countWordsInAFile(const string & absoluteFileName);
 unsigned int countOccurrenceInAFile(const string & filename, const string & word);
+void printFileLineBackward(const string & filename);
+void concatenateAllLinesInAString(const string & filename, string & result);
 #endif //THINKING_IN_CPP01_GENERAL_H
