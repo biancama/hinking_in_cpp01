@@ -1,1 +1,1 @@
-# hinking_in_cpp01
+# Thinking in cpp 01 exercises
